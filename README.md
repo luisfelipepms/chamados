@@ -1,5 +1,6 @@
-Chamados
-Como executar o projeto
+#Chamados
+
+##Como executar o projeto
 
 Para iniciar a aplicação, é necessário ter o Docker e o Docker Compose instalados na máquina.
 
