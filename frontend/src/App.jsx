@@ -11,7 +11,7 @@ function App() {
   const { data: atendimentos, loading, error, refetch } = useFetch(
       () => getAtendimentos(),
       [],
-      1000
+      10000
     );
 
     if (loading) return <p>Carregando chamados...</p>;
